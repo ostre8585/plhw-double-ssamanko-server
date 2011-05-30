@@ -1,4 +1,4 @@
-package com.poolc.pl;
+package com.poolc.pl.networkThread;
 import java.io.*;
 import java.net.Socket;
 
